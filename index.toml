@@ -471,11 +471,6 @@ hash = "8513e0584472042ae00128a06b1a113a766eed182af29b36dafd19d2d8ae7c8a"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
-metafile = true
-
-[[files]]
 file = "mods/structory.pw.toml"
 hash = "d4acddd9dbe8063560fa281eb07898471841df72832e6068015cb742928f2e90"
 metafile = true
