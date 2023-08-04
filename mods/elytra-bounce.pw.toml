@@ -1,0 +1,13 @@
+name = "Elytra Bounce"
+filename = "elytrabounce-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hieJmvD9/versions/L5K3Dv8m/elytrabounce-1.0.2.jar"
+hash-format = "sha1"
+hash = "b6f833f236f8a3b4e9c5d1cf0e60ae76de73281d"
+
+[update]
+[update.modrinth]
+mod-id = "hieJmvD9"
+version = "L5K3Dv8m"
