@@ -1,0 +1,13 @@
+name = "Create: Ender Transmission"
+filename = "createendertransmission-2.0.4-1.19.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "563cd117c429c5b85b3880099b0bfa6eeb7de25b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4682129
+project-id = 737302

@@ -1,0 +1,13 @@
+name = "Spelunkery"
+filename = "spelunkery-1.19.2-0.2.5-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fa0053cf72ba9988f2044bc5c16a838212df54aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4675057
+project-id = 790530
