@@ -146,11 +146,6 @@ hash = "805a1b3ab3967ae68f87a867a5bf3be5b559f73ab891e0112e93c7bd381e4e0e"
 metafile = true
 
 [[files]]
-file = "mods/createfabricreibugfix.pw.toml"
-hash = "c8d79836a88b364c77a80fecd18d393ee491539dd1576aaabc75dcc240ca061c"
-metafile = true
-
-[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "25e082c4f835eb1615ac5ad94099167a1639312c415343afe0a7383a2f834b85"
 metafile = true
@@ -201,13 +196,28 @@ hash = "28ac85a7ddfb1f4f6b99a194085d59f6ec90cd6bf74331321e57fec3914f3b2b"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "c416e3d01f9fc86dddd2e1a34eefc24e51adb7911d808e324a2dfe384f46e081"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d0e79f62e18b0e93ab62d2a3d6fd139a2d40e9839eb359f2fad2e1ec12dc7b81"
 metafile = true
 
 [[files]]
+file = "mods/emicompat.pw.toml"
+hash = "7f2bac9db41f54dfc2f505602ea94e9fcd01454282f3d7f0075fb61ad2543e76"
+metafile = true
+
+[[files]]
 file = "mods/emiffect.pw.toml"
 hash = "031d16eb940b9005939d24390f98f321afcbfb001a835f36c1874dd5d5cd4258"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "cfcfcb3c97190708fe47074148d803d339713bdaa908b98d57a6ef4e40e053b5"
 metafile = true
 
 [[files]]
@@ -298,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "67a24992a28236ac55b0cf5500b52d2370b006ed6116dcb1eaaad94f1bfcfd12"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "8cd8efa283704967d31332f10ef446867ebe7d1d534ba554e117bf326d77a22a"
 metafile = true
 
 [[files]]
@@ -413,11 +418,6 @@ metafile = true
 [[files]]
 file = "mods/respawnable-pets.pw.toml"
 hash = "3b22d5fafbb43406d0bd5d1d6a0fb0d405279f71cf262bfb8bdd16d02fd3c9f3"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "f8fc76b81dc8dcb2f89afeba73e6ad63e49004abe2c64cb63ad9f938a1505015"
 metafile = true
 
 [[files]]
