@@ -411,6 +411,16 @@ hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
@@ -523,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "16407909297ffb5f94f6fd786513c31ccfc17fbd376641b9dd532b073c6d3059"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "83eb3d5bad961e193f6a6339af3fc6ce18756e07341c96d14887331179f50c25"
 metafile = true
 
 [[files]]
